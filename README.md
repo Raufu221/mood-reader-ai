@@ -21,5 +21,10 @@ Follow these steps to run the project locally on your machine.
 ### 1. Clone the repository
 Open your terminal and run:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/mood-reader-ai.git](https://github.com/YOUR_USERNAME/mood-reader-ai.git)
-cd mood-reader-ai
+git clone [https://github.com/Raufu221/mood-reader-ai.git](https://github.com/Raufu221/mood-reader-ai.git)
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+3. Run the app:
+```bash
+   python app.py
