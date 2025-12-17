@@ -17,8 +17,7 @@ A simple but powerful Sentiment Analysis web application built with Python (Flas
 ## 📦 How to Run
 
 Follow these steps to run the project locally on your machine.
-
-### 1. Clone the repository
+ 1. Clone the repository
 Open your terminal and run:
 ```bash
 git clone [https://github.com/Raufu221/mood-reader-ai.git](https://github.com/Raufu221/mood-reader-ai.git)
